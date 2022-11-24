@@ -1,0 +1,8 @@
+F:\HOC_TAP\.Net\Code\TinhGiaThua\TinhGiaThua\bin\Debug\TinhGiaThua.exe.config
+F:\HOC_TAP\.Net\Code\TinhGiaThua\TinhGiaThua\bin\Debug\TinhGiaThua.exe
+F:\HOC_TAP\.Net\Code\TinhGiaThua\TinhGiaThua\bin\Debug\TinhGiaThua.pdb
+F:\HOC_TAP\.Net\Code\TinhGiaThua\TinhGiaThua\obj\Debug\TinhGiaThua.csproj.AssemblyReference.cache
+F:\HOC_TAP\.Net\Code\TinhGiaThua\TinhGiaThua\obj\Debug\TinhGiaThua.csproj.SuggestedBindingRedirects.cache
+F:\HOC_TAP\.Net\Code\TinhGiaThua\TinhGiaThua\obj\Debug\TinhGiaThua.csproj.CoreCompileInputs.cache
+F:\HOC_TAP\.Net\Code\TinhGiaThua\TinhGiaThua\obj\Debug\TinhGiaThua.exe
+F:\HOC_TAP\.Net\Code\TinhGiaThua\TinhGiaThua\obj\Debug\TinhGiaThua.pdb

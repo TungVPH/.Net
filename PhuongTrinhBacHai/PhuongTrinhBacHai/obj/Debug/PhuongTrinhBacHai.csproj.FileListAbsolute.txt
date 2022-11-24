@@ -1,0 +1,8 @@
+F:\HOC_TAP\.Net\Code\PhuongTrinhBacHai\PhuongTrinhBacHai\obj\Debug\PhuongTrinhBacHai.csproj.AssemblyReference.cache
+F:\HOC_TAP\.Net\Code\PhuongTrinhBacHai\PhuongTrinhBacHai\obj\Debug\PhuongTrinhBacHai.csproj.SuggestedBindingRedirects.cache
+F:\HOC_TAP\.Net\Code\PhuongTrinhBacHai\PhuongTrinhBacHai\obj\Debug\PhuongTrinhBacHai.csproj.CoreCompileInputs.cache
+F:\HOC_TAP\.Net\Code\PhuongTrinhBacHai\PhuongTrinhBacHai\bin\Debug\PhuongTrinhBacHai.exe.config
+F:\HOC_TAP\.Net\Code\PhuongTrinhBacHai\PhuongTrinhBacHai\bin\Debug\PhuongTrinhBacHai.exe
+F:\HOC_TAP\.Net\Code\PhuongTrinhBacHai\PhuongTrinhBacHai\bin\Debug\PhuongTrinhBacHai.pdb
+F:\HOC_TAP\.Net\Code\PhuongTrinhBacHai\PhuongTrinhBacHai\obj\Debug\PhuongTrinhBacHai.exe
+F:\HOC_TAP\.Net\Code\PhuongTrinhBacHai\PhuongTrinhBacHai\obj\Debug\PhuongTrinhBacHai.pdb
