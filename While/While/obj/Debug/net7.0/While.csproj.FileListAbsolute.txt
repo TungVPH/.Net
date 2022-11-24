@@ -1,0 +1,15 @@
+F:\HOC_TAP\.Net\Code\While\While\bin\Debug\net7.0\While.exe
+F:\HOC_TAP\.Net\Code\While\While\bin\Debug\net7.0\While.deps.json
+F:\HOC_TAP\.Net\Code\While\While\bin\Debug\net7.0\While.runtimeconfig.json
+F:\HOC_TAP\.Net\Code\While\While\bin\Debug\net7.0\While.dll
+F:\HOC_TAP\.Net\Code\While\While\bin\Debug\net7.0\While.pdb
+F:\HOC_TAP\.Net\Code\While\While\obj\Debug\net7.0\While.csproj.AssemblyReference.cache
+F:\HOC_TAP\.Net\Code\While\While\obj\Debug\net7.0\While.GeneratedMSBuildEditorConfig.editorconfig
+F:\HOC_TAP\.Net\Code\While\While\obj\Debug\net7.0\While.AssemblyInfoInputs.cache
+F:\HOC_TAP\.Net\Code\While\While\obj\Debug\net7.0\While.AssemblyInfo.cs
+F:\HOC_TAP\.Net\Code\While\While\obj\Debug\net7.0\While.csproj.CoreCompileInputs.cache
+F:\HOC_TAP\.Net\Code\While\While\obj\Debug\net7.0\While.dll
+F:\HOC_TAP\.Net\Code\While\While\obj\Debug\net7.0\refint\While.dll
+F:\HOC_TAP\.Net\Code\While\While\obj\Debug\net7.0\While.pdb
+F:\HOC_TAP\.Net\Code\While\While\obj\Debug\net7.0\While.genruntimeconfig.cache
+F:\HOC_TAP\.Net\Code\While\While\obj\Debug\net7.0\ref\While.dll

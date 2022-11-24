@@ -1,0 +1,15 @@
+F:\HOC_TAP\.Net\Code\SapXepMang\SapXepMang\obj\Debug\net7.0\SapXepMang.csproj.AssemblyReference.cache
+F:\HOC_TAP\.Net\Code\SapXepMang\SapXepMang\obj\Debug\net7.0\SapXepMang.GeneratedMSBuildEditorConfig.editorconfig
+F:\HOC_TAP\.Net\Code\SapXepMang\SapXepMang\obj\Debug\net7.0\SapXepMang.AssemblyInfoInputs.cache
+F:\HOC_TAP\.Net\Code\SapXepMang\SapXepMang\obj\Debug\net7.0\SapXepMang.AssemblyInfo.cs
+F:\HOC_TAP\.Net\Code\SapXepMang\SapXepMang\obj\Debug\net7.0\SapXepMang.csproj.CoreCompileInputs.cache
+F:\HOC_TAP\.Net\Code\SapXepMang\SapXepMang\bin\Debug\net7.0\SapXepMang.exe
+F:\HOC_TAP\.Net\Code\SapXepMang\SapXepMang\bin\Debug\net7.0\SapXepMang.deps.json
+F:\HOC_TAP\.Net\Code\SapXepMang\SapXepMang\bin\Debug\net7.0\SapXepMang.runtimeconfig.json
+F:\HOC_TAP\.Net\Code\SapXepMang\SapXepMang\bin\Debug\net7.0\SapXepMang.dll
+F:\HOC_TAP\.Net\Code\SapXepMang\SapXepMang\bin\Debug\net7.0\SapXepMang.pdb
+F:\HOC_TAP\.Net\Code\SapXepMang\SapXepMang\obj\Debug\net7.0\SapXepMang.dll
+F:\HOC_TAP\.Net\Code\SapXepMang\SapXepMang\obj\Debug\net7.0\refint\SapXepMang.dll
+F:\HOC_TAP\.Net\Code\SapXepMang\SapXepMang\obj\Debug\net7.0\SapXepMang.pdb
+F:\HOC_TAP\.Net\Code\SapXepMang\SapXepMang\obj\Debug\net7.0\SapXepMang.genruntimeconfig.cache
+F:\HOC_TAP\.Net\Code\SapXepMang\SapXepMang\obj\Debug\net7.0\ref\SapXepMang.dll

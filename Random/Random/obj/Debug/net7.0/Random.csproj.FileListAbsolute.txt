@@ -1,0 +1,15 @@
+F:\HOC_TAP\.Net\Code\Random\Random\bin\Debug\net7.0\Random.exe
+F:\HOC_TAP\.Net\Code\Random\Random\bin\Debug\net7.0\Random.deps.json
+F:\HOC_TAP\.Net\Code\Random\Random\bin\Debug\net7.0\Random.runtimeconfig.json
+F:\HOC_TAP\.Net\Code\Random\Random\bin\Debug\net7.0\Random.dll
+F:\HOC_TAP\.Net\Code\Random\Random\bin\Debug\net7.0\Random.pdb
+F:\HOC_TAP\.Net\Code\Random\Random\obj\Debug\net7.0\Random.csproj.AssemblyReference.cache
+F:\HOC_TAP\.Net\Code\Random\Random\obj\Debug\net7.0\Random.GeneratedMSBuildEditorConfig.editorconfig
+F:\HOC_TAP\.Net\Code\Random\Random\obj\Debug\net7.0\Random.AssemblyInfoInputs.cache
+F:\HOC_TAP\.Net\Code\Random\Random\obj\Debug\net7.0\Random.AssemblyInfo.cs
+F:\HOC_TAP\.Net\Code\Random\Random\obj\Debug\net7.0\Random.csproj.CoreCompileInputs.cache
+F:\HOC_TAP\.Net\Code\Random\Random\obj\Debug\net7.0\Random.dll
+F:\HOC_TAP\.Net\Code\Random\Random\obj\Debug\net7.0\refint\Random.dll
+F:\HOC_TAP\.Net\Code\Random\Random\obj\Debug\net7.0\Random.pdb
+F:\HOC_TAP\.Net\Code\Random\Random\obj\Debug\net7.0\Random.genruntimeconfig.cache
+F:\HOC_TAP\.Net\Code\Random\Random\obj\Debug\net7.0\ref\Random.dll

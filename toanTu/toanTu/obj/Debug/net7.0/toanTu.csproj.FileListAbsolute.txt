@@ -1,0 +1,15 @@
+F:\HOC_TAP\.Net\Code\toanTu\toanTu\bin\Debug\net7.0\toanTu.exe
+F:\HOC_TAP\.Net\Code\toanTu\toanTu\bin\Debug\net7.0\toanTu.deps.json
+F:\HOC_TAP\.Net\Code\toanTu\toanTu\bin\Debug\net7.0\toanTu.runtimeconfig.json
+F:\HOC_TAP\.Net\Code\toanTu\toanTu\bin\Debug\net7.0\toanTu.dll
+F:\HOC_TAP\.Net\Code\toanTu\toanTu\bin\Debug\net7.0\toanTu.pdb
+F:\HOC_TAP\.Net\Code\toanTu\toanTu\obj\Debug\net7.0\toanTu.csproj.AssemblyReference.cache
+F:\HOC_TAP\.Net\Code\toanTu\toanTu\obj\Debug\net7.0\toanTu.GeneratedMSBuildEditorConfig.editorconfig
+F:\HOC_TAP\.Net\Code\toanTu\toanTu\obj\Debug\net7.0\toanTu.AssemblyInfoInputs.cache
+F:\HOC_TAP\.Net\Code\toanTu\toanTu\obj\Debug\net7.0\toanTu.AssemblyInfo.cs
+F:\HOC_TAP\.Net\Code\toanTu\toanTu\obj\Debug\net7.0\toanTu.csproj.CoreCompileInputs.cache
+F:\HOC_TAP\.Net\Code\toanTu\toanTu\obj\Debug\net7.0\toanTu.dll
+F:\HOC_TAP\.Net\Code\toanTu\toanTu\obj\Debug\net7.0\refint\toanTu.dll
+F:\HOC_TAP\.Net\Code\toanTu\toanTu\obj\Debug\net7.0\toanTu.pdb
+F:\HOC_TAP\.Net\Code\toanTu\toanTu\obj\Debug\net7.0\toanTu.genruntimeconfig.cache
+F:\HOC_TAP\.Net\Code\toanTu\toanTu\obj\Debug\net7.0\ref\toanTu.dll

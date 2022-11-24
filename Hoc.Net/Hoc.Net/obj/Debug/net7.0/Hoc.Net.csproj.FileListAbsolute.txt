@@ -1,0 +1,15 @@
+F:\HOC_TAP\.Net\Code\Hoc.Net\Hoc.Net\bin\Debug\net7.0\Hoc.Net.exe
+F:\HOC_TAP\.Net\Code\Hoc.Net\Hoc.Net\bin\Debug\net7.0\Hoc.Net.deps.json
+F:\HOC_TAP\.Net\Code\Hoc.Net\Hoc.Net\bin\Debug\net7.0\Hoc.Net.runtimeconfig.json
+F:\HOC_TAP\.Net\Code\Hoc.Net\Hoc.Net\bin\Debug\net7.0\Hoc.Net.dll
+F:\HOC_TAP\.Net\Code\Hoc.Net\Hoc.Net\bin\Debug\net7.0\Hoc.Net.pdb
+F:\HOC_TAP\.Net\Code\Hoc.Net\Hoc.Net\obj\Debug\net7.0\Hoc.Net.csproj.AssemblyReference.cache
+F:\HOC_TAP\.Net\Code\Hoc.Net\Hoc.Net\obj\Debug\net7.0\Hoc.Net.GeneratedMSBuildEditorConfig.editorconfig
+F:\HOC_TAP\.Net\Code\Hoc.Net\Hoc.Net\obj\Debug\net7.0\Hoc.Net.AssemblyInfoInputs.cache
+F:\HOC_TAP\.Net\Code\Hoc.Net\Hoc.Net\obj\Debug\net7.0\Hoc.Net.AssemblyInfo.cs
+F:\HOC_TAP\.Net\Code\Hoc.Net\Hoc.Net\obj\Debug\net7.0\Hoc.Net.csproj.CoreCompileInputs.cache
+F:\HOC_TAP\.Net\Code\Hoc.Net\Hoc.Net\obj\Debug\net7.0\Hoc.Net.dll
+F:\HOC_TAP\.Net\Code\Hoc.Net\Hoc.Net\obj\Debug\net7.0\refint\Hoc.Net.dll
+F:\HOC_TAP\.Net\Code\Hoc.Net\Hoc.Net\obj\Debug\net7.0\Hoc.Net.pdb
+F:\HOC_TAP\.Net\Code\Hoc.Net\Hoc.Net\obj\Debug\net7.0\Hoc.Net.genruntimeconfig.cache
+F:\HOC_TAP\.Net\Code\Hoc.Net\Hoc.Net\obj\Debug\net7.0\ref\Hoc.Net.dll

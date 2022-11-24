@@ -1,0 +1,15 @@
+F:\HOC_TAP\.Net\Code\MangHaiChieu\MangHaiChieu\bin\Debug\net7.0\MangHaiChieu.exe
+F:\HOC_TAP\.Net\Code\MangHaiChieu\MangHaiChieu\bin\Debug\net7.0\MangHaiChieu.deps.json
+F:\HOC_TAP\.Net\Code\MangHaiChieu\MangHaiChieu\bin\Debug\net7.0\MangHaiChieu.runtimeconfig.json
+F:\HOC_TAP\.Net\Code\MangHaiChieu\MangHaiChieu\bin\Debug\net7.0\MangHaiChieu.dll
+F:\HOC_TAP\.Net\Code\MangHaiChieu\MangHaiChieu\bin\Debug\net7.0\MangHaiChieu.pdb
+F:\HOC_TAP\.Net\Code\MangHaiChieu\MangHaiChieu\obj\Debug\net7.0\MangHaiChieu.csproj.AssemblyReference.cache
+F:\HOC_TAP\.Net\Code\MangHaiChieu\MangHaiChieu\obj\Debug\net7.0\MangHaiChieu.GeneratedMSBuildEditorConfig.editorconfig
+F:\HOC_TAP\.Net\Code\MangHaiChieu\MangHaiChieu\obj\Debug\net7.0\MangHaiChieu.AssemblyInfoInputs.cache
+F:\HOC_TAP\.Net\Code\MangHaiChieu\MangHaiChieu\obj\Debug\net7.0\MangHaiChieu.AssemblyInfo.cs
+F:\HOC_TAP\.Net\Code\MangHaiChieu\MangHaiChieu\obj\Debug\net7.0\MangHaiChieu.csproj.CoreCompileInputs.cache
+F:\HOC_TAP\.Net\Code\MangHaiChieu\MangHaiChieu\obj\Debug\net7.0\MangHaiChieu.dll
+F:\HOC_TAP\.Net\Code\MangHaiChieu\MangHaiChieu\obj\Debug\net7.0\refint\MangHaiChieu.dll
+F:\HOC_TAP\.Net\Code\MangHaiChieu\MangHaiChieu\obj\Debug\net7.0\MangHaiChieu.pdb
+F:\HOC_TAP\.Net\Code\MangHaiChieu\MangHaiChieu\obj\Debug\net7.0\MangHaiChieu.genruntimeconfig.cache
+F:\HOC_TAP\.Net\Code\MangHaiChieu\MangHaiChieu\obj\Debug\net7.0\ref\MangHaiChieu.dll

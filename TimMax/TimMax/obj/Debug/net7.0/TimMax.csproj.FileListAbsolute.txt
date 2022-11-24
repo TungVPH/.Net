@@ -1,0 +1,15 @@
+F:\HOC_TAP\.Net\Code\TimMax\TimMax\bin\Debug\net7.0\TimMax.exe
+F:\HOC_TAP\.Net\Code\TimMax\TimMax\bin\Debug\net7.0\TimMax.deps.json
+F:\HOC_TAP\.Net\Code\TimMax\TimMax\bin\Debug\net7.0\TimMax.runtimeconfig.json
+F:\HOC_TAP\.Net\Code\TimMax\TimMax\bin\Debug\net7.0\TimMax.dll
+F:\HOC_TAP\.Net\Code\TimMax\TimMax\bin\Debug\net7.0\TimMax.pdb
+F:\HOC_TAP\.Net\Code\TimMax\TimMax\obj\Debug\net7.0\TimMax.csproj.AssemblyReference.cache
+F:\HOC_TAP\.Net\Code\TimMax\TimMax\obj\Debug\net7.0\TimMax.GeneratedMSBuildEditorConfig.editorconfig
+F:\HOC_TAP\.Net\Code\TimMax\TimMax\obj\Debug\net7.0\TimMax.AssemblyInfoInputs.cache
+F:\HOC_TAP\.Net\Code\TimMax\TimMax\obj\Debug\net7.0\TimMax.AssemblyInfo.cs
+F:\HOC_TAP\.Net\Code\TimMax\TimMax\obj\Debug\net7.0\TimMax.csproj.CoreCompileInputs.cache
+F:\HOC_TAP\.Net\Code\TimMax\TimMax\obj\Debug\net7.0\TimMax.dll
+F:\HOC_TAP\.Net\Code\TimMax\TimMax\obj\Debug\net7.0\refint\TimMax.dll
+F:\HOC_TAP\.Net\Code\TimMax\TimMax\obj\Debug\net7.0\TimMax.pdb
+F:\HOC_TAP\.Net\Code\TimMax\TimMax\obj\Debug\net7.0\TimMax.genruntimeconfig.cache
+F:\HOC_TAP\.Net\Code\TimMax\TimMax\obj\Debug\net7.0\ref\TimMax.dll
