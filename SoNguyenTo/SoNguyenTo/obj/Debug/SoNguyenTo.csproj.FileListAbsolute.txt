@@ -1,0 +1,8 @@
+F:\HOC_TAP\.Net\Code\SoNguyenTo\SoNguyenTo\bin\Debug\SoNguyenTo.exe.config
+F:\HOC_TAP\.Net\Code\SoNguyenTo\SoNguyenTo\bin\Debug\SoNguyenTo.exe
+F:\HOC_TAP\.Net\Code\SoNguyenTo\SoNguyenTo\bin\Debug\SoNguyenTo.pdb
+F:\HOC_TAP\.Net\Code\SoNguyenTo\SoNguyenTo\obj\Debug\SoNguyenTo.csproj.AssemblyReference.cache
+F:\HOC_TAP\.Net\Code\SoNguyenTo\SoNguyenTo\obj\Debug\SoNguyenTo.csproj.SuggestedBindingRedirects.cache
+F:\HOC_TAP\.Net\Code\SoNguyenTo\SoNguyenTo\obj\Debug\SoNguyenTo.csproj.CoreCompileInputs.cache
+F:\HOC_TAP\.Net\Code\SoNguyenTo\SoNguyenTo\obj\Debug\SoNguyenTo.exe
+F:\HOC_TAP\.Net\Code\SoNguyenTo\SoNguyenTo\obj\Debug\SoNguyenTo.pdb
