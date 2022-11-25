@@ -1,0 +1,8 @@
+F:\HOC_TAP\.Net\Code\.Net\TongDaySo\TongDaySo\bin\Debug\TongDaySo.exe.config
+F:\HOC_TAP\.Net\Code\.Net\TongDaySo\TongDaySo\bin\Debug\TongDaySo.exe
+F:\HOC_TAP\.Net\Code\.Net\TongDaySo\TongDaySo\bin\Debug\TongDaySo.pdb
+F:\HOC_TAP\.Net\Code\.Net\TongDaySo\TongDaySo\obj\Debug\TongDaySo.csproj.AssemblyReference.cache
+F:\HOC_TAP\.Net\Code\.Net\TongDaySo\TongDaySo\obj\Debug\TongDaySo.csproj.SuggestedBindingRedirects.cache
+F:\HOC_TAP\.Net\Code\.Net\TongDaySo\TongDaySo\obj\Debug\TongDaySo.csproj.CoreCompileInputs.cache
+F:\HOC_TAP\.Net\Code\.Net\TongDaySo\TongDaySo\obj\Debug\TongDaySo.exe
+F:\HOC_TAP\.Net\Code\.Net\TongDaySo\TongDaySo\obj\Debug\TongDaySo.pdb
